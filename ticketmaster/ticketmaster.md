@@ -1,7 +1,3 @@
-Here's the full deep-dive in markdown, with architecture diagrams woven in.
-
----
-
 # Ticketmaster at Scale: Taylor Swift Problem — Full System Design
 
 ## Part 1 — The Front Door Problem (Why Everything Breaks First)
